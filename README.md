@@ -84,8 +84,7 @@ Sigmoid| ![image](https://github.com/user-attachments/assets/3c174abc-ff10-4a0f-
 
 |||
 |--|---|
-![image](https://github.gatech.edu/jhou73/ML4641-Project-Team10/assets/54690/9e44e701-7b6a-4dbb-9f53-a059db3cc301)|![image](https://github.gatech.edu/jhou73/ML4641-Project-Team10/assets/54690/865043f1-9245-4213-81d8-e57328f35dbf)
-
+![image](https://github.com/user-attachments/assets/6b744061-4d89-496d-865c-b0f22dea4651) | ![image](https://github.com/user-attachments/assets/5b4e1cbb-de38-4c13-a199-f4fb658c55be)
 
 After optimizing gamma and the regularization parameters, RBF performed the best alongside Sigmoid (accuracy of 0.9649), with Polynomial being the second best (accuracy of 0.9561) and Linear being the worst (accuracy of 0.9473). Generally, these models performed better prediction with a lower gamma and higher regularization.
 We also ran SVM on our data after it had been preprocessed using PCA. Our SVM models actually performed worse with the reduced features. Accuracy was still above 90%, but dropped around 3-5% from without PCA for the varying kernels. This decline suggests that the reduction in the number of features resulted in a loss of important information, making the SVM models less effective.  This analysis underscores the importance of selecting appropriate kernels for SVM and considering the trade-offs involved in dimensionality reduction techniques like PCA.
