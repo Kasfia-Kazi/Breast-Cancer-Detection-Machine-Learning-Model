@@ -45,13 +45,12 @@ The previous model indicated a binary classification would better suit our datas
 
 Without PCA |  With PCA (3 components)
 :-------------------------:|:-------------------------:
-![image](https://github.com/user-attachments/assets/d60124a9-5cb7-44ff-ae30-80957c524be4)
- | ![image](https://github.com/user-attachments/assets/96406774-fbc6-40d6-a836-76173b09ef2c)
+![image](https://github.com/user-attachments/assets/d60124a9-5cb7-44ff-ae30-80957c524be4) | ![image](https://github.com/user-attachments/assets/96406774-fbc6-40d6-a836-76173b09ef2c)
 
 
 Visualization With PCA (3 components)|Visualization With PCA (2 components)|
 :-------------------------:|--|
-![image](https://github.gatech.edu/jhou73/ML4641-Project-Team10/assets/54690/c9085322-0a39-4a17-8198-029fdab93ce3)|![image](https://github.gatech.edu/jhou73/ML4641-Project-Team10/assets/54690/991f11cf-47e2-4144-b81b-ad79c5e02640)
+![image](https://github.com/user-attachments/assets/bb2e4c3a-d065-4a67-b95a-6e372add2642) | ![image](https://github.com/user-attachments/assets/dec0016b-f71d-41be-ad27-99e7868b0805)
 
 The logistic model with PCA has a higher accuracy (0.95) compared to the logistic model without PCA feature reduction (0.91). This indicates PCA has potentially improved the model's ability to correctly classify the instances. For Class 0, the precision is slightly lower with PCA (0.89 vs. 0.98) but recall is higher (0.94 vs. 0.83). This suggests PCA might have made the model more sensitive to detecting Class 0 instances, at the expense of precision. For Class 1, both precision and recall are improved with PCA (0.97 vs. 0.87 and 0.95 vs. 0.98, respectively). This indicates PCA has improved the model's ability to correctly identify Class 1 instances.
 
