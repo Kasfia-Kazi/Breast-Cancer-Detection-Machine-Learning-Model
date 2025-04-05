@@ -32,7 +32,7 @@ Our purpose is to predict whether or not a breast lump/mass is cancerous or nonc
 :-------------------------:|:-------------------------:
 ![image](https://github.com/user-attachments/assets/d6d83482-cbe8-44e0-b11e-ec832c78c9ca) | ![image](https://github.com/user-attachments/assets/56e93a9e-85b6-4f56-93be-7ba5c447ea32)
 ![image](https://github.com/user-attachments/assets/8cb0e80c-708e-4c43-8c72-5d7903b0d8fb)
-| ![image](https://github.com/user-attachments/assets/4653eb2a-6c56-4f4e-b7fe-ba013ebcab9c)
+|![image](https://github.com/user-attachments/assets/4653eb2a-6c56-4f4e-b7fe-ba013ebcab9c)
 
 ### Results/Discussion
 The labeling for cancerous vs noncancerous regions are binary as shown by the residual plots and prediction visualization, thus indicating the use of a classification model to further determine pairings would be more optimal. The heatmap of the feature correlations to the diagnosis indicates the possible feature reduction of redundant features: mean_texture and mean_smoothness due to their correlation values lying closer to zero than the other features. Their respective ridge regression coefficient values are also of small magnitude, indicating the low impact of these features on the diagnosis. Similarly, according to the ridge regression model mean_radius may also be a feature with low impact on the diagnosis of the lump. The actual vs predicted graph displays the model has a somewhat accurate prediction of diagnoses, with the predicted values centering around the true value. However, the model has a wide range of predicted values that requires further tuning of the model and classification to improve the predicted diagnosis.
