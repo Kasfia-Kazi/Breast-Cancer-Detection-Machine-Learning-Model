@@ -70,17 +70,17 @@ Sigmoid | ![image](https://github.com/user-attachments/assets/c49d8d65-5846-4dc2
 
 || Visualization Without PCA|
 :-------------------------:|:-------------------------:|
-Radial Basis Function |![image](https://github.gatech.edu/jhou73/ML4641-Project-Team10/assets/54690/9f0bfa33-0190-4657-8fae-90f023a9ccc1)
-Linear | ![image](https://github.gatech.edu/jhou73/ML4641-Project-Team10/assets/54690/94d7a41b-b43c-4c9c-bf90-5bb36bac8fe3)
-Polynomial |![image](https://github.gatech.edu/jhou73/ML4641-Project-Team10/assets/54690/90a4ac8b-c487-4dbc-9986-610b7b4d9a8c)
-Sigmoid|![image](https://github.gatech.edu/jhou73/ML4641-Project-Team10/assets/54690/66c4cbc8-fc6d-4dc7-af72-40e7804d347a)
+Radial Basis Function | ![image](https://github.com/user-attachments/assets/28cb56c4-858a-4e83-a3a9-b602d022ec92)
+Linear | ![image](https://github.com/user-attachments/assets/f7096f9f-d496-41bb-a0d2-c6419773bf48)
+Polynomial | ![image](https://github.com/user-attachments/assets/fdd65ce5-5f2c-46ca-bded-01fe741a1560)
+Sigmoid | ![image](https://github.com/user-attachments/assets/d636d864-c98f-4899-ae20-c461d2e66881)
 
 ||  Visualization With PCA (2 components) | Results
 :-------------------------:|:-------------------------:|:-------------------------:
-Radial Basis Function |![image](https://github.gatech.edu/jhou73/ML4641-Project-Team10/assets/54690/12c2402d-1e90-4c1b-8299-bd1724e335d1) |![image](https://github.gatech.edu/jhou73/ML4641-Project-Team10/assets/54690/ea81eaaa-7822-4d0a-924f-c84ef3adfdd9)
-Linear | ![image](https://github.gatech.edu/jhou73/ML4641-Project-Team10/assets/54690/5dd8cb1a-f506-48ca-a34f-ef9a899cd09c) | ![image](https://github.gatech.edu/jhou73/ML4641-Project-Team10/assets/54690/0b575c90-dc8b-4969-9301-140c4df1352f)
-Polynomial |![image](https://github.gatech.edu/jhou73/ML4641-Project-Team10/assets/54690/eb588489-0ec2-45c3-8566-e7cc99a335c9) | ![image](https://github.gatech.edu/jhou73/ML4641-Project-Team10/assets/54690/8c81b808-fb84-4d13-872d-922caf284399)
-Sigmoid|![image](https://github.gatech.edu/jhou73/ML4641-Project-Team10/assets/54690/aa522471-202d-41fa-b1ba-7716c48c6b78) | ![image](https://github.gatech.edu/jhou73/ML4641-Project-Team10/assets/54690/82155cb3-9925-485e-985d-9a827af06204)
+Radial Basis Function | ![image](https://github.com/user-attachments/assets/891454f1-ea00-426b-9342-8345c090e738) | ![image](https://github.com/user-attachments/assets/508f6494-a292-4993-9020-7a86cff1c62b)
+Linear | ![image](https://github.com/user-attachments/assets/f0064613-2b34-42cd-b72a-1df29d6ec623) | ![image](https://github.com/user-attachments/assets/453d0623-ed97-4278-a757-7ff03609cfb5)
+Polynomial | ![image](https://github.com/user-attachments/assets/1133462e-9cdf-49de-856a-11fbd9d1d837) | ![image](https://github.com/user-attachments/assets/ff85736a-d803-41d8-95ab-4ea2a6d70d04)
+Sigmoid| ![image](https://github.com/user-attachments/assets/3c174abc-ff10-4a0f-a56a-b29c5a8ab7f8) | ![image](https://github.com/user-attachments/assets/3834003f-02ad-457b-8e1f-32f3f5512a48)
 
 |||
 |--|---|
