@@ -30,7 +30,7 @@ Our purpose is to predict whether or not a breast lump/mass is cancerous or nonc
 
 |||
 :-------------------------:|:-------------------------:
-![image](https://github.com/user-attachments/assets/d6d83482-cbe8-44e0-b11e-ec832c78c9ca) | ![image](https://github.com/user-attachments/assets/56e93a9e-85b6-4f56-93be-7ba5c447ea32)
+![image](https://github.com/user-attachments/assets/d6d83482-cbe8-44e0-b11e-ec832c78c9ca) | ![image](https://github.com/user-attachments/assets/56e93a9e-85b6-4f56-93be-7ba5c447ea32) |
 ![image](https://github.com/user-attachments/assets/8cb0e80c-708e-4c43-8c72-5d7903b0d8fb)
 |![image](https://github.com/user-attachments/assets/4653eb2a-6c56-4f4e-b7fe-ba013ebcab9c)
 
