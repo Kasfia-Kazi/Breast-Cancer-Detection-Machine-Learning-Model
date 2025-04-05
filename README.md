@@ -45,7 +45,8 @@ The previous model indicated a binary classification would better suit our datas
 
 Without PCA |  With PCA (3 components)
 :-------------------------:|:-------------------------:
-![image](https://github.gatech.edu/jhou73/ML4641-Project-Team10/assets/54690/76d8ac23-2b44-4921-8fa1-9eb4d538345c) | ![image](https://github.gatech.edu/jhou73/ML4641-Project-Team10/assets/54690/11ee98b8-0b6b-430b-b5bf-0c1095fe4fa8)
+![image](https://github.com/user-attachments/assets/d60124a9-5cb7-44ff-ae30-80957c524be4)
+ | ![image](https://github.com/user-attachments/assets/96406774-fbc6-40d6-a836-76173b09ef2c)
 
 Visualization With PCA (3 components)|Visualization With PCA (2 components)|
 :-------------------------:|--|
