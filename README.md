@@ -48,6 +48,7 @@ Without PCA |  With PCA (3 components)
 ![image](https://github.com/user-attachments/assets/d60124a9-5cb7-44ff-ae30-80957c524be4)
  | ![image](https://github.com/user-attachments/assets/96406774-fbc6-40d6-a836-76173b09ef2c)
 
+
 Visualization With PCA (3 components)|Visualization With PCA (2 components)|
 :-------------------------:|--|
 ![image](https://github.gatech.edu/jhou73/ML4641-Project-Team10/assets/54690/c9085322-0a39-4a17-8198-029fdab93ce3)|![image](https://github.gatech.edu/jhou73/ML4641-Project-Team10/assets/54690/991f11cf-47e2-4144-b81b-ad79c5e02640)
