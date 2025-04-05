@@ -63,10 +63,10 @@ We tried using 4 different kernels for our SVM model: Radial Basis Function (RBF
 
 |Results|  Without PCA |  With PCA (3 components) 
 :-------------------------:|:-------------------------:|:-------------------------:
-Radial Basis Function |![image](https://github.gatech.edu/jhou73/ML4641-Project-Team10/assets/54690/f513d8ce-ffad-4753-9513-0c7e1f2fa814) | ![image](https://github.gatech.edu/jhou73/ML4641-Project-Team10/assets/54690/d3f4029a-3cc2-4a42-8304-d293c5ca5ea7) 
-Linear | ![image](https://github.gatech.edu/jhou73/ML4641-Project-Team10/assets/54690/2f2b3985-1e83-4c95-96d4-06f90a5f4052) | ![image](https://github.gatech.edu/jhou73/ML4641-Project-Team10/assets/54690/a51ea987-dc85-4739-ad0d-d892ac6a32b5)
-Polynomial |![image](https://github.gatech.edu/jhou73/ML4641-Project-Team10/assets/54690/465fe8a5-84af-4c31-b4c3-182f258a9f61)|![image](https://github.gatech.edu/jhou73/ML4641-Project-Team10/assets/54690/ffcbcfc4-bed7-4382-b31d-c1c35e372374)
-Sigmoid|![image](https://github.gatech.edu/jhou73/ML4641-Project-Team10/assets/54690/43efd1d0-d2e8-4616-ba36-7834bd636998)|  ![image](https://github.gatech.edu/jhou73/ML4641-Project-Team10/assets/54690/ae9333cd-96e5-493e-9324-dd250df03573)
+Radial Basis Function |![image](https://github.com/user-attachments/assets/0003795c-fe71-43e0-b10f-b1b28ee1d236) | ![image](https://github.com/user-attachments/assets/83a709a9-7ade-4397-8c21-a675cc540a6a)
+Linear | ![image](https://github.com/user-attachments/assets/623a9a17-eb62-4c28-988f-d6c2f3c9be41) | ![image](https://github.com/user-attachments/assets/913e9692-4aca-402a-92bd-a4ae8e5db61c)
+Polynomial | ![image](https://github.com/user-attachments/assets/5ed986f7-8add-4da6-bb67-1f6a67ae599c) | ![image](https://github.com/user-attachments/assets/737d1e8a-a7a6-4530-a267-df167c28eb6b)
+Sigmoid | ![image](https://github.com/user-attachments/assets/c49d8d65-5846-4dc2-9ac5-cab1b6bcb79f) |  ![image](https://github.com/user-attachments/assets/f151344f-80f2-40d7-9f52-53826dda616c)
 
 || Visualization Without PCA|
 :-------------------------:|:-------------------------:|
